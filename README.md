@@ -38,3 +38,6 @@ Incluir um ficheiro README.md que descreve o projeto, como este.
 
 ## Juntar os contributos derivados no repositório inicial 
 
+### Previsualização do HTML
+Alguns script e CSS não é lido
+https://htmlpreview.github.io/?https://github.com/ricardobasiliopt/git10/blob/master/index.html
